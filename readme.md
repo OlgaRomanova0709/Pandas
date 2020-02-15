@@ -64,13 +64,13 @@ Created a table that lists the average Reading Score for students of each grade 
 
 # Scores by School Spending
 
-Created a table that breaks down each school performance based on the average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. it includes in the table each of the following:
+Created a table that breaks down each school performance based on the average Spending Ranges (Per Student). Used 4 reasonable bins to group school spending. it includes in the table each of the following:
 
-Average Math Score
-Average Reading Score
-% Passing Math
-% Passing Reading
-Overall Passing Rate (Average of the above two)
+Average Math Score, 
+Average Reading Score, 
+% Passing Math, 
+% Passing Reading, 
+Overall Passing Rate (Average of the above two
 
 # Scores by School Size
 
