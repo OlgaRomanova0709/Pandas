@@ -1,10 +1,10 @@
 #  Academy of Py
-We analyzed the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
-Our final report includes the following:
+I analyzed the district-wide standardized test results using student's math and reading scores, as well as various information on the schools they attend. I aggregated the data and showcased the obvious trends in school performance.
+The final report includes the following:
 
 # District Summary
 
-Create a high level snapshot (in table form) of the district's key metrics, including:
+Created a high level snapshot (in a table form) of the district's key metrics, including:
 
 --Total Schools
 --Total Students
@@ -17,7 +17,7 @@ Create a high level snapshot (in table form) of the district's key metrics, incl
 
 # School Summary
 
-We created overview table that summarizes key metrics about each school
+Created an overview table that summarizes key metrics about each school
 
 School Name
 School Type
@@ -33,7 +33,7 @@ Overall Passing Rate (Average of the above two)
 
 # Top Performing Schools (By Passing Rate)
 
-We created a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
+Created a table that highlights the top 5 performing schools based on Overall Passing Rate. It includes:
 
 School Name
 School Type
@@ -49,22 +49,22 @@ Overall Passing Rate (Average of the above two)
 
 # Bottom Performing Schools (By Passing Rate)
 
-We created a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+Created a table that highlights the bottom 5 performing schools based on Overall Passing Rate. It includes all of the same metrics as above.
 
 
 # Math Scores by Grade**
 
-We created a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+Created a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
 # Reading Scores by Grade
 
-We created a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+Created a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
 # Scores by School Spending
 
-We created a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+Created a table that breaks down each school performance based on the average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. it includes in the table each of the following:
 
 Average Math Score
 Average Reading Score
@@ -72,14 +72,11 @@ Average Reading Score
 % Passing Reading
 Overall Passing Rate (Average of the above two)
 
-
-
-
 # Scores by School Size
 
-Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+Repeats the above breakdown, but this time groups schools based on a reasonable approximation of school size (Small, Medium, Large).
 
 
 # Scores by School Type
 
-Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+Repeats the above breakdown, but this time groups schools based on school type (Charter vs. District).
