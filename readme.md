@@ -1,5 +1,5 @@
-#  Academy of Py
-I analyzed the district-wide standardized test results using student's math and reading scores, as well as various information on the schools they attend. I aggregated the data and showcased the obvious trends in school performance.
+#  Goal
+Using Pandas I analyzed the district-wide standardized test results using student's math and reading scores, as well as various information on the schools they attend. I aggregated the data and showcased the obvious trends in school performance.
 The final report includes the following:
 
 # District Summary
