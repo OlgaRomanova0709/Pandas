@@ -19,15 +19,15 @@ Created a high level snapshot (in a table form) of the district's key metrics, i
 
 Created an overview table that summarizes key metrics about each school
 
-School Name
-School Type
-Total Students
-Total School Budget
-Per Student Budget
-Average Math Score
-Average Reading Score
-% Passing Math
-% Passing Reading
+School Name, 
+School Type, 
+Total Students, 
+Total School Budget, 
+Per Student Budget, 
+Average Math Score, 
+Average Reading Score, 
+% Passing Math, 
+% Passing Reading, 
 Overall Passing Rate (Average of the above two)
 
 
