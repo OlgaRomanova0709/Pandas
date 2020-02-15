@@ -35,15 +35,15 @@ Overall Passing Rate (Average of the above two)
 
 Created a table that highlights the top 5 performing schools based on Overall Passing Rate. It includes:
 
-School Name
-School Type
-Total Students
-Total School Budget
-Per Student Budget
-Average Math Score
-Average Reading Score
-% Passing Math
-% Passing Reading
+School Name, 
+School Type, 
+Total Students, 
+Total School Budget, 
+Per Student Budget, 
+Average Math Score, 
+Average Reading Score, 
+% Passing Math, 
+% Passing Reading, 
 Overall Passing Rate (Average of the above two)
 
 
